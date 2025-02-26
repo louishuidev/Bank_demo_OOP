@@ -1,0 +1,21 @@
+{
+  "name": "bank-system-demo",
+  "version": "1.0.0",
+  "description": "Object-Oriented Bank System Demo for Interview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "bank",
+    "oop",
+    "javascript",
+    "demo"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+} 
